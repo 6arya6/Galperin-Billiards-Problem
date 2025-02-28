@@ -19,9 +19,9 @@ Galperin's billiard system consists of:
 4. The heavy mass eventually moves away, and the total number of collisions reveals the digits of **π**.
 
 The system can be analyzed using:
-- **Momentum conservation**: \( M v_1 + m v_2 = M v_1' + m v_2' \)
-- **Energy conservation**: \( \frac{1}{2} M v_1^2 + \frac{1}{2} m v_2^2 = \frac{1}{2} M v_1'^2 + \frac{1}{2} m v_2'^2 \)
-- When \( M/m = 100^n \), the number of collisions **approximates π up to n+1 decimal places**.
+- **Momentum conservation**: $ M v_1 + m v_2 = M v_1' + m v_2'$
+- **Energy conservation**: $\frac{1}{2} M v_1^2 + \frac{1}{2} m v_2^2 = \frac{1}{2} M v_1'^2 + \frac{1}{2} m v_2'^2 $
+- When $ M/m = 100^n $, the number of collisions **approximates π up to n+1 decimal places**.
 
 ## Implementation
 
